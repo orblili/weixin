@@ -1,4 +1,4 @@
-name: '微信定时推送任务'
+name: 'weixin'
 on:
   schedule:
     - cron: '30 3 * * *'
