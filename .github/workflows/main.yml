@@ -1,7 +1,7 @@
 name: '微信定时任务'
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '02 3 * * *'
 permissions:
   contents: read
 jobs:
